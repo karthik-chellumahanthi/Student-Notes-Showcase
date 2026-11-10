@@ -235,20 +235,14 @@ Try the application and explore its academic resources and student productivity 
 
 Application screenshots will be showcased here to demonstrate the actual user interface and application experience.
 
-Planned screenshot gallery:
+<img width="273" height="592" alt="image" src="https://github.com/user-attachments/assets/8575f7bb-1a8f-41ee-a61b-c2d9cf78dc94" />
+<img width="273" height="592" alt="image" src="https://github.com/user-attachments/assets/d2ac8d2c-addf-4c20-aaff-1139e3dc919d" />
+<img width="273" height="592" alt="image" src="https://github.com/user-attachments/assets/6ec22b51-c270-472a-a7ff-da050ced1f60" />
+<img width="273" height="592" alt="image" src="https://github.com/user-attachments/assets/f97fe58d-71f0-4dc2-8093-a57d42e5f085" />
+<img width="300" height="592" alt="image" src="https://github.com/user-attachments/assets/8458aa1a-6bcf-44c3-8408-987310dd21c8" />
+<img width="273" height="592" alt="image" src="https://github.com/user-attachments/assets/65eef89d-8361-4f01-99da-a5adf0c26391" />
 
-| Screen | Description |
-|---|---|
-| Home Screen | Main application dashboard |
-| Authentication | Login and registration |
-| Notes Library | Organized academic materials |
-| Semester Navigation | Year and semester selection |
-| Subject Library | Subject-wise resources |
-| PDF Viewer | Academic document reading |
-| Calculator | Academic calculation tools |
-| Attendance | Attendance management |
 
-*Actual application screenshots will be added to this section.*
 
 ---
 
